@@ -1,0 +1,13 @@
+Month,Mean_tem,Max_tem,Min_tem,Rain
+January,24,30,18,0.1 mm
+February,27,33,20,0.1 mm
+March,30,36,23,0.3 mm
+April,32,38,25,0.7 mm
+May,31,38,25,1.5 mm
+June,26,31,23,5.4 mm
+July,25,28,22,4.8 mm
+August,24,28,22,5 mm
+September,25,29,22,5.1 mm
+October,25,30,21,4.2 mm
+November,25,30,20,0.9 mm
+December,24,29,18,0.2 mm
